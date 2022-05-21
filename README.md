@@ -1,11 +1,12 @@
-Hi, I’m Niamh Gowran. 
+## Niamh Gowran
 
-I’m interested in python programming and web development.
+* Interested in python programming and web development.
 
-I’m currently studying computer science in DCU Ireland.
+* Currently studying computer science in DCU Ireland.
 
-I’m looking to collaborate on beginner friendly python or web dev projects.
+* Looking to collaborate on beginner friendly python or web dev projects.
 
-How to reach me:
-
+#### How to reach me: 
 Email - nsgowran@gmail.com
+
+Connect on [Linkedin](https://www.linkedin.com/in/niamh-gowran-6b3b24221/)
