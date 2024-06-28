@@ -4,6 +4,9 @@
 
 * Currently studying Computer Science in DCU Ireland.
 
+* Software Engineer Intern @Microsoft - Azure Observability
+  * Developing in C++ & C# to enhance a multi-tenant monitoring agent, contributing to the scalability and reliability of Azure services.
+
 #### How to reach me: 
 Email - nsgowran@gmail.com
 
