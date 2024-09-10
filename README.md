@@ -1,6 +1,6 @@
 ## Niamh Gowran
 
-* Interested in full stack web development and software egineering. 
+* Interested in full stack web development and software engineering. 
 
 * Currently studying Computer Science in DCU Ireland.
 
