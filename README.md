@@ -1,11 +1,8 @@
 ## Niamh Gowran
 
-* Interested in full stack web development and software engineering. 
-
-* Currently studying Computer Science in DCU Ireland.
-
-* Previous Software Engineer Intern @Microsoft - Azure Observability
+* Software Engineer Intern - Azure Observability
   * Developing in C++ & C# to enhance a multi-tenant monitoring agent, contributing to the scalability and reliability of Azure services.
+  * Azure Monitor Agent
 
 #### How to reach me: 
 Email - nsgowran@gmail.com
