@@ -1,6 +1,6 @@
 ## Niamh Gowran
 
-* Software Engineer Intern - Azure Observability
+* Software Engineer - Azure Observability
   * Developing in C++ & C# to enhance a multi-tenant monitoring agent, contributing to the scalability and reliability of Azure services.
   * Azure Monitor Agent
 
